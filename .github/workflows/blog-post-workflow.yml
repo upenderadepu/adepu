@@ -4,6 +4,7 @@ schedule:
 # Runs every hour
 - cron: '0 * * * *'
 jobs:
+  build:
 update-readme-with-blog:
 name: Update this repo's README with latest blog posts
 runs-on: ubuntu-latest
