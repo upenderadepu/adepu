@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Adepu Upender</h1>
+<h1 align="center">Hi 👋, I'm Upender Adepu</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upenderadepu" alt="upenderadepu" /> </p>
 
-- 🔭 I’m currently working on **Innoitus India**
+- 🔭 I’m currently working on **Automation**
 
-- 🌱 I’m currently learning **AI & ML**
+- 🌱 I’m currently learning **everything :)**
 
-- 👯 I’m looking to collaborate on **opensource projects**
-
-- 📫 How to reach me **upender.adepu@gmail.com**
+- 👯 I’m looking to collaborate on **other content creators**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
