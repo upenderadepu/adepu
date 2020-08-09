@@ -1,8 +1,3 @@
-# adepu
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-
 <h1 align="center">Hi 👋, I'm Adepu Upender</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
@@ -27,4 +22,3 @@
 <p align="center">
 <a href="https://dev.to/upenderadepu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="upenderadepu" height="30" width="30" /></a>
 </p>
-<!-- BLOG-POST-LIST:END -->
