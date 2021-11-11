@@ -3,7 +3,7 @@ on:
   push:
   workflow_dispatch:
 jobs:
-  clone multi repo:
+  test:
     name: clone multi repo demo
     runs-on: ubuntu-latest
     steps:
