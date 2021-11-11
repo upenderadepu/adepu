@@ -12,4 +12,4 @@ jobs:
       - name: clone repo
         run: git clone https://github.com/upenderadepu/docs.git --branch generate-html --single-branch github 
       - name: List the clone files
-        run: ls -lrt && ls -lrt github
+        run: ls -lrt github
