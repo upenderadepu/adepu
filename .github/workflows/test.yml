@@ -10,6 +10,6 @@ jobs:
       - name: checkout
         uses: actions/checkout@v2
       - name: clone repo
-        run: git clone https://github.com/upenderadepu/docs.git --branch generate-html --single-branch docs/config/ 
+        run: git clone https://github.com/upenderadepu/docs/tree/generate-html/config --branch generate-html --single-branch test 
       - name: List the clone files
-        run: ls -lrt * && ls -lrt docs
+        run: ls -lrt * && ls -lrt test
