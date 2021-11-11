@@ -8,6 +8,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
       - name: clone repo
       - run: git clone https://github.com/upenderadepu/docs.git --branch generate-html --single-branch github
