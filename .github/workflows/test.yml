@@ -1,0 +1,13 @@
+name: Latest blog post workflow
+on: 
+  push:
+  workflow_dispatch:
+jobs:
+  clone multi repo:
+    name: clone multi repo demo
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: clone repo
+      - run: git clone https://github.com/upenderadepu/docs.git --branch generate-html --single-branch github
